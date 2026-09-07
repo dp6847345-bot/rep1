@@ -1,7 +1,6 @@
-echo "# rep1" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/dp6847345-bot/rep1.git
-git push -u origin main
+# Заголовок 1 уровня
+## Заголовок 2 уровня
+### Заголовок 3 уровня
+#### Заголовок 4 уровня
+##### Заголовок 5 уровня
+###### Заголовок 6 уровня
